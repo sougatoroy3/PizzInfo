@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p>
     <img src="https://img.shields.io/badge/Author-sougatoroy3-ff69b4.svg" />
     <img src="https://img.shields.io/badge/Swift-5.5-ff69b4.svg" />
@@ -22,4 +22,3 @@ You may even use XCode or VSCode to run it.
 This is just a preview of the complete app. I'm still working on it. Your ideas and suggestions are always welcome.
 =======
 # PizzInfo ![5.5 playgrounds](https://img.shields.io/badge/Playgrounds:-5.5-orange.svg)
->>>>>>> 4684afac1927ef0bd01cfa650b7d9422a9d98b7b
