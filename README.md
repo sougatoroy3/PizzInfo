@@ -21,4 +21,4 @@ You may even use XCode or VSCode to run it.
 
 # Disclaimer
 This is just a preview of the complete app. I'm still working on it. Your ideas and suggestions are always welcome.
-=======
+
