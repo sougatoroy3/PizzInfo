@@ -8,8 +8,7 @@
 
 ### Downloading all the playgrounds
 
-Unless otherwise indicated, all playgrounds are compatible with Swift 3 and later.
-Swift 3+ Playground
+Unless otherwise indicated, all playgrounds are compatible with Swift 3 and later versions of Playgrounds app.
 Initially developed in Swift 5.5
 
 # Steps to Run
